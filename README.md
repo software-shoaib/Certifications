@@ -1,5 +1,6 @@
 # Certifications
-
+https://github.com/software-shoaib/Certifications/blob/main/IBM%20DATA%20ANALYST%20PROFESSIONAL%20CERTIFICATE.jpg
+<img src="https://github.com/software-shoaib/Certifications/blob/main/IBM%20DATA%20ANALYST%20PROFESSIONAL%20CERTIFICATE.jpg" alt="Alt text" title="Optional title">
 <img src="https://github.com/software-shoaib/Certifications/blob/main/certificate%20of%20DATA%20VISUALIZATIONS%20USING%20PYTHON.jpg" alt="Alt text" title="Optional title">
 <img src="https://github.com/software-shoaib/Certifications/blob/main/IBM%20cerificate%20Through%20Coursera%20Data%20Analysis%20with%20Python.jpg" alt="Alt text" title="Optional title">
 <img src="https://github.com/software-shoaib/Certifications/blob/main/DATABASE%20AND%20SQL.jpg" alt="Alt text" title="Optional title">
