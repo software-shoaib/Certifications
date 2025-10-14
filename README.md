@@ -1,4 +1,6 @@
 # Certifications
+
+<img src="https://github.com/software-shoaib/Certifications/blob/main/saylani%20certification.jpg">
 # DATA ANALYST PROFESSIONAL CERTIFACTE
 <img src="https://github.com/software-shoaib/Certifications/blob/main/IBM%20DATA%20ANALYST%20PROFESSIONAL%20CERTIFICATE.jpg" alt="Alt text" title="Optional title">
 
