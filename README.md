@@ -1,6 +1,6 @@
 # Certifications
 
-<img src="[https://github.com/software-shoaib/Certifications/blob/main/saylani%20certification.jpg](https://github.com/software-shoaib/Certifications/blob/main/Cloud%20Computing%20Certificate%20from%20Ashrietech%20Through%20NAVTTC%202024.jpg)">
+<img src="https://github.com/software-shoaib/Certifications/blob/main/Cloud%20Computing%20Certificate%20from%20Ashrietech%20Through%20NAVTTC%202024.jpg">
 <img src="https://github.com/software-shoaib/Certifications/blob/main/saylani%20certification.jpg">
 
 <img src="https://github.com/software-shoaib/Certifications/blob/main/IBM%20DATA%20ANALYST%20PROFESSIONAL%20CERTIFICATE.jpg" alt="Alt text" title="Optional title">
